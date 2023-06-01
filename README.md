@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # java笔记
 
 # 目录
