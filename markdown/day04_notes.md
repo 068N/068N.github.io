@@ -400,12 +400,14 @@ for (int i = 0; i < 100; i++) {
 }
 ```
 
-### \u000d
+### 一些操作
 
 ```java
 //\u000d + 任意代码
-//测试 \u000d System.out.println("hello world");
+//测试\u000dSystem.out.println("hello world");
 // ↑ 输出结果为hello world
+//\u000aSystem.out.println(111_111);
+// ↑ 输出结果为111111（111_111会变成111111）
 ```
 
 - - -
