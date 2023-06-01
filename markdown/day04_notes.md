@@ -1,6 +1,6 @@
 # day04 notes
 
-## Scanner
+## 1 Scanner
 
 - Scanner:java提供的一个零件，而接收用户输入数据是这个零件的一个小功能
 - 共3步
@@ -28,11 +28,11 @@ public class ScannerDemo {
 }
 ```
 
-## 结构
+## 2 结构
 
-### 分支结构(下)
+### 2.1 分支结构(下)
 
-#### switch ... case
+#### 2.1.1 switch ... case
 
     优点：效率高、结构简单
     缺点：只能对整数进行操作
@@ -96,7 +96,7 @@ public class CommandBySwitch {
 }
 ```
 
-### 循环结构
+### 2.2 循环结构
 
 - while
 - do...while
@@ -119,7 +119,7 @@ while(boolean) {//判断多次
     - 输出5次“行动是成功的阶梯” 
     - 输出9*9乘法表
 
-### 循环三要素
+### 2.2.1 循环三要素
 
 - 循环变量的初始化
 - 循环的条件（以循环变量为基础）
@@ -144,7 +144,7 @@ while(boolean) {//判断多次
 3) count++; <br>
    count = 0/1/2/  3时结束
 
-#### while结构
+### 2.2.2 while结构
 
 - 执行过程：
 
@@ -246,7 +246,7 @@ public class Guessing {
 }
 ```
 
-#### do ... while结构
+### 2.2.3 do ... while结构
 
 ```java
 do {
@@ -297,7 +297,7 @@ public class Guessing {
 }
 ```
 
-#### for结构
+### 2.2.4 for结构
 
 - 应用率最高
 - 和次数有关
@@ -359,7 +359,6 @@ public class ForDemo {
 | times = 5 | false | for循环结束 |
 | | |输出"继续执行..."|
 
-##
 
 |次数|代码|循环|
 |---|---|---|
@@ -367,7 +366,7 @@ public class ForDemo {
 |无关|相同|do...while|
 |无关|不同|while|
 
-## 随机数（上）
+## 3 随机数（上）
 
 - 生成100个1-1000随机数
 
@@ -378,7 +377,7 @@ for (int i = 0; i < 100; i++) {
 }
 ```
 
-## 其他
+## 4 其他
 
 ```java
 for (int i = 0; i < 100; i++) {
@@ -400,7 +399,7 @@ for (int i = 0; i < 100; i++) {
 }
 ```
 
-### 一些操作
+- 一些操作
 
 ```java
 //\u000d + 任意代码
