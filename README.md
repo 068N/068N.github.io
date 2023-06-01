@@ -1,4 +1,4 @@
-# java笔记
+# <center>java笔记</center>
 
 # <center>目录</center>
 
