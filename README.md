@@ -1,6 +1,10 @@
-# <center>java笔记</center>
+---
+layout: default
+---
 
-# <center>目录</center>
+# java笔记
+
+# 目录
 
 ## 第一阶段
 
@@ -8,3 +12,4 @@
 - [day02_notes](markdown/day02_notes.md)
 - [day03_notes](markdown/day03_notes.md)
 - [day04_notes](markdown/day04_notes.md)
+
