@@ -1,6 +1,6 @@
 # day02 notes
 
-## Variable（变量）：存数的
+## 1 Variable（变量）：存数的
 
   - 声明：----相当于在银行开了个帐户
   - 初始化：----相当于给帐户存钱
@@ -13,32 +13,32 @@
     - 不能使用关键字
     - 允许中文命名，但不建议，建议"英文的见名知意"、"小驼峰命名法"
 
-## 8种基本数据类型
+## 2 八种基本数据类型
 
 - byte、short、int、long、float、double、boolean、char
 
-## int
+## 2.1 int
 
 - int：整型，4个字节，-21个多亿到21个多亿
   - 整数直接量默认为int类型，但不能超出范围，若超范围则发生编译错误
   - 两个整数相除，结果还是整数，小数位无条件舍弃(不会四舍五入)
   - 运算时若超出范围，则发生溢出，溢出不是错误，但是需要避免
 
-## long
+## 2.2 long
 - long：长整型，8个字节，-900万万亿多到900万万亿多
   - 若想表示长整型直接量，需在数字后加L或l
   - 运算时若有可能溢出，建议在第1个数字后加L
 
-## double
+## 2.3 double
 - double：浮点型，8个字节，很大很大很大
   - 小数直接量默认为double型，若想表示float，需在数字后加F或f
   - 不能表示精确数据，运算时有可能会发生舍入误差，精确场合不能使用
     
-## boolean
+## 2.4 boolean
 - boolean：布尔型，1个字节
   - 只能存储true或false
   
-## char
+## 2.5 char
 
 - 采用的是Unicode编码格式，一个字符对应一个码
 
@@ -90,7 +90,7 @@ public class DataTypeDemo {
 }
 ```
 
-## typecasting
+## 3 typecasting
 
 - 自动：隐式 **小到大** <br>
 - 强制：**大到小** <br>
@@ -129,7 +129,7 @@ public class DataTypeDemo {
 }
 ```
 
-## two rules
+## 4 two rules
 
 - int直接量可以直接赋值给byte，short，char，但不能超过范围 <br>
 直接量可以直接赋值eg. byte b2 = 6; <br>
