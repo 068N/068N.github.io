@@ -1,6 +1,6 @@
 # day02 notes
 
-## 变量：存数的
+## Variable：存数的
 
   - 声明：----相当于在银行开了个帐户
   - 初始化：----相当于给帐户存钱
@@ -13,7 +13,7 @@
     - 不能使用关键字
     - 允许中文命名，但不建议，建议"英文的见名知意"、"小驼峰命名法"
 
-## 八种基本数据类型：
+## Eight Types of Variables：
 
 - byte、short、int、long、float、double、boolean、char
 
