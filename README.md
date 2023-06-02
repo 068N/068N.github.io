@@ -8,4 +8,4 @@
 - [day02_notes](markdown/day02_notes.md)
 - [day03_notes](markdown/day03_notes.md)
 - [day04_notes](markdown/day04_notes.md)
-
+- [day05_notes](markdown/day05_notes.md)
