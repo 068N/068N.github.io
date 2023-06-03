@@ -9,3 +9,4 @@
 - [day03_notes](markdown/day03_notes.md)
 - [day04_notes](markdown/day04_notes.md)
 - [day05_notes](markdown/day05_notes.md)
+- [day06周测总结](html/day06周测总结.html)
