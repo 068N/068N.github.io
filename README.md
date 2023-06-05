@@ -11,6 +11,7 @@
 - [day05_notes](markdown/day05_notes.md)
 - [第一次周测](html/第一次周测.html)
 - [第一次周测总结](markdown/第一次周测总结.md)
+- [day06_notes](markdown/day06_notes.md)
 
 
 - - -
