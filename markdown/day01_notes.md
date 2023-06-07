@@ -7,7 +7,7 @@
 - 176.46.101.6
 
 ```java
-package day01; // call package day01
+package BASICS.day01; // call package day01
 
 public class HelloWorld { // call class HelloWorld
     public static void main(String[] args) { // main, 程序入口

@@ -59,7 +59,7 @@ ASCII
 - 特殊字符通过\转义 <br>
 
 ```java
-package day02;
+package BASICS.day02;
 
 public class DataTypeDemo {
     public static void main(String[] args) {
@@ -104,7 +104,7 @@ public class DataTypeDemo {
 
 
 ```java
-package day02;
+package BASICS.day02;
 
 public class DataTypeDemo {
     public static void main(String[] args) {
@@ -136,7 +136,7 @@ public class DataTypeDemo {
 - byte，short，char型参与运算时，先一律自动转换为int再运算eg. byte b3 = b1 + b2; <br>
 
 ```java
-package day02;
+package BASICS.day02;
 
 public class DataTypeDemo {
     public static void main(String[] args) {
@@ -162,7 +162,7 @@ public class DataTypeDemo {
 ## practice
 
 ```java
-package day02;
+package BASICS.day02;
 
 public class Practice02 {
     public static void main(String[] args) {

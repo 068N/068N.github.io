@@ -14,7 +14,7 @@
 
 
 ```java
-package day03;
+package BASICS.day03;
 
 public class OperDemo {
     public static void main(String[] args) {
@@ -63,7 +63,7 @@ public class OperDemo {
 - 关系运算的结果为boolean型，关系成立为true，关系不成立为false
 
 ```java
-package day03;
+package BASICS.day03;
 
 public class OperDemo {
     public static void main(String[] args) {
@@ -120,7 +120,7 @@ public class OperDemo {
 |下雨了？|false|true|
 
 ```java
-package day03;
+package BASICS.day03;
 
 public class OperDemo {
     public static void main(String[] args) {
@@ -186,7 +186,7 @@ public class OperDemo {
 - 自带**强转**功能
 
 ```java
-package day03;
+package BASICS.day03;
 
 public class OperDemo {
     public static void main(String[] args) {
@@ -225,7 +225,7 @@ public class OperDemo {
 - 任何类型的数据与字符串相连，结果一定是字符串
 
 ```java
-package day03;
+package BASICS.day03;
 
 public class OperDemo {
     public static void main(String[] args) {
@@ -261,7 +261,7 @@ public class OperDemo {
       - 若为false，执行:后的数2
     
 ```java
-package day03;
+package BASICS.day03;
 
 public class OperDemo {
     public static void main(String[] args) {
@@ -312,7 +312,7 @@ if (boolean) {
     - 若为false，则直接结束
 
 ```java
-package day03;
+package BASICS.day03;
 //if...结构的展示
 public class IfDemo {
     public static void main(String[] args) {
@@ -352,7 +352,7 @@ if (boolean) {
         - 语句块1、语句块2不会同时都不走
 
 ```java
-package day03;
+package BASICS.day03;
 //if...else结构的展示
 public class IfElseDemo {
     public static void main(String[] args) {
@@ -403,7 +403,7 @@ if (boolean1) {
       - 语句块不会同时都不走
 
 ```java
-package day03;
+package BASICS.day03;
 //if...else if结构的展示
 public class IfElseIfDemo {
     public static void main(String[] args) {
@@ -428,7 +428,7 @@ public class IfElseIfDemo {
 ## practice
 
 ```java
-package day03;
+package BASICS.day03;
 
 public class Practice03 {
     public static void main(String[] args) {
@@ -640,7 +640,7 @@ public class Practice03 {
 ## extra practice
 
 ```java
-package day03;
+package BASICS.day03;
 
 public class Practice03E {
     public static void main(String[] args) {

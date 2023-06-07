@@ -1,4 +1,4 @@
-# day05 notes
+# day06 notes
 
 ## 1 数组的复制
 
@@ -6,7 +6,7 @@ System.arraycopy(a,1,b,0,4);
 - 灵活性好
 
 ```java
-package day06;
+package BASICS.day06;
 //数组的展示
 public class ArrayDemo {
     public static void main(String[] args) {
@@ -37,7 +37,7 @@ int[] c = Arrays.copyOf(a, 6);
     若目标数组长度<原数组长度，则末尾的截掉
 
 ```java
-package day06;
+package BASICS.day06;
 //数组的展示
 import java.util.Arrays;
 public class ArrayDemo {
@@ -70,7 +70,7 @@ public class ArrayDemo {
 - 数组的扩容(创建了一个更大的新的数组，并将数组**复制**了进去)
 
 ```java
-package day06;
+package BASICS.day06;
 //数组的展示
 import java.util.Arrays;
 public class ArrayDemo {
@@ -89,7 +89,7 @@ public class ArrayDemo {
 ```
 
 ```java
-package day06;
+package BASICS.day06;
 //求数组的最大值，并将其存储到数组最后一个元素的下一个位置
 import java.util.Arrays;
 
@@ -182,7 +182,7 @@ public static int plus(int num1, int num2)
 
 
 ```java
-package day06;
+package BASICS.day06;
 //方法的演示
 import java.util.Arrays;
 import java.util.Random;
@@ -268,7 +268,7 @@ public class MethodDemo {
 - 绑定：编译器在编译时会根据方法的签名自动绑定方法
 
 ```java
-package day06;
+package BASICS.day06;
 //方法的演示
 import java.util.Arrays;
 import java.util.Random;
@@ -384,7 +384,7 @@ public class MethodDemo {
 
 
 ```java
-package day06;
+package BASICS.day06;
 import java.util.Random;
 
 public class MethodDemo2 {
@@ -434,7 +434,7 @@ public class MethodDemo2 {
 ```
 
 ```java
-package day06;
+package BASICS.day06;
 
 import java.util.Arrays;
 
@@ -471,7 +471,7 @@ public class MaxOfArray2 {
 ## extra practice
 
 ```java
-package day06;
+package BASICS.day06;
 
 import java.util.Random;
 

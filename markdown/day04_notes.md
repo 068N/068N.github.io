@@ -12,7 +12,7 @@ int a = ?;//系统随机生成
 ```
 
 ```java
-package day04;
+package BASICS.day04;
 import java.util.Scanner;//1.导入扫描仪组件
 
 public class ScannerDemo {
@@ -43,7 +43,7 @@ public class ScannerDemo {
 - if ... else if使用范围更广，但有时不直观
 
 ```java
-package day04;
+package BASICS.day04;
 
 public class SwitchCasedDemo {
     public static void main(String[] args) {
@@ -66,7 +66,7 @@ public class SwitchCasedDemo {
 ```
 
 ```java
-package day04;
+package BASICS.day04;
 import java.util.Scanner;
 //命令解析程序
 public class CommandBySwitch {
@@ -160,7 +160,7 @@ while(boolean) {
 ```
 
 ```java
-package day04;
+package BASICS.day04;
 //while结构的展示
 public class WhileDemo {
     public static void main(String[] args) {
@@ -218,7 +218,7 @@ public class WhileDemo {
     恭喜你猜对了！
 
 ```java
-package day04;
+package BASICS.day04;
 //猜数字小游戏
 import java.util.Scanner;
 
@@ -269,7 +269,7 @@ do {
 - 从变量的声明开始，到最近的while结束
 
 ```java
-package day04;
+package BASICS.day04;
 //猜数字小游戏
 import java.util.Scanner;
 
@@ -309,7 +309,7 @@ for(第一要素、第二要素、第三要素) {
 ```
 
 ```java
-package day04;
+package BASICS.day04;
 //for循环的展示
 public class ForDemo {
     public static void main(String[] args) {
@@ -414,7 +414,7 @@ for (int i = 0; i < 100; i++) {
 ## practice
 
 ```java
-package day04;
+package BASICS.day04;
 import java.util.Scanner;
 
 public class Practice04 {
@@ -517,7 +517,7 @@ public class Practice04 {
 ## extra practice
 
 ```java
-package day04;
+package BASICS.day04;
 import java.util.Scanner;
 
 public class Practice04E {

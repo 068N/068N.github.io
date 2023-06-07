@@ -10,7 +10,7 @@
 |省略要素1,2,3|死循环|
 
 ```java
-package day05;
+package BASICS.day05;
 import java.sql.SQLOutput;
 //for结构展示
 public class ForDemo {
@@ -44,7 +44,7 @@ public class ForDemo {
 ## 2 随机加法运算器
 
 ```java
-package day05;
+package BASICS.day05;
 //随机加法运算器
 import java.util.Scanner;
 
@@ -73,7 +73,7 @@ public class Addition {
 ## 3 break
 
 ```java
-package day05;
+package BASICS.day05;
 import java.sql.SQLOutput;
 //for结构展示
 public class ForDemo {
@@ -100,7 +100,7 @@ public class ForDemo {
 - 应用率不高
 
 ```java
-package day05;
+package BASICS.day05;
 import java.sql.SQLOutput;
 //for结构展示
 public class ForDemo {
@@ -131,7 +131,7 @@ public class ForDemo {
 等效于：
 
 ```java
-package day05;
+package BASICS.day05;
 import java.sql.SQLOutput;
 //for结构展示
 public class ForDemo {
@@ -153,7 +153,7 @@ public class ForDemo {
 - break默认只跳出一层循环
 
 ```java
-package day05;
+package BASICS.day05;
 
 public class MultiTable {
   public static void main(String[] args) {
@@ -209,7 +209,7 @@ public class MultiTable {
 - 数组的排序
 
 ```java
-package day05;
+package BASICS.day05;
 //数组的演示
 public class ArrayDemo {
    public static void main(String[] args) {
@@ -241,7 +241,7 @@ public class ArrayDemo {
 
 
 ```java
-package day05;
+package BASICS.day05;
 //数组的演示
 public class ArrayDemo {
     public static void main(String[] args) {
@@ -261,7 +261,7 @@ public class ArrayDemo {
    - 数组下标一定在0到数组长度-1之内，越界不会有编译错误，但运行时会有异常
 
 ```java
-package day05;
+package BASICS.day05;
 //数组的演示
 public class ArrayDemo {
     public static void main(String[] args) {
@@ -276,7 +276,7 @@ public class ArrayDemo {
 ```
 
 ```java
-package day05;
+package BASICS.day05;
 
 public class MaxOfArray {
     public static void main(String[] args) {
@@ -320,7 +320,7 @@ public class MaxOfArray {
    - 常见的排序算法：冒泡排序、快速排序、插入排序、希尔排序、归并排序、选择排序...
 
 ```java
-package day05;
+package BASICS.day05;
 //数组的演示
 import java.util.Arrays;
 
@@ -355,7 +355,7 @@ arr[i] = rand.nextInt(100);//0-99之间的随机整数，写100不包括100
 ```
 
 ```java
-package day05;
+package BASICS.day05;
 //数组的演示
 import java.util.Random;
 
@@ -376,7 +376,7 @@ public class ArrayDemo {
 ## practice
 
 ```java
-package day05;
+package BASICS.day05;
 import java.util.Random;
 import java.util.Scanner;
 import java.util.Arrays;
@@ -504,7 +504,7 @@ public class Practice05 {
 ## extra practice
 
 ```java
-package day05;
+package BASICS.day05;
 
 public class Practice05E {
     public static void main(String[] args) {
