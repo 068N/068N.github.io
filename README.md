@@ -9,9 +9,10 @@
 - [day03_notes](markdown/day03_notes.md)
 - [day04_notes](markdown/day04_notes.md)
 - [day05_notes](markdown/day05_notes.md)
-- [第一次周测](html/第一次周测.html)
-- [第一次周测总结](markdown/第一次周测总结.md)
+- [第一次周测【模拟】](html/第一次周测【模拟】.html)
+- [第一次周测【模拟】总结](markdown/第一次周测【模拟】总结.md)
 - [day06_notes](markdown/day06_notes.md)
+- [day07_notes](markdown/day07_notes.md)
 
 
 - - -
