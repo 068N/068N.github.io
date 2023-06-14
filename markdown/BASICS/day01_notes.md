@@ -4,7 +4,9 @@
 
 - git: [wkjeason / jsd2305_teacher](https://gitee.com/wkjeason/jsd2305_teacher.git)
 
-- 176.46.101.6
+- git: [xiloer / jsd2305-se-teacher](https://gitee.com/xiloer/jsd2305-se-teacher.git)
+
+- DNS: 176.46.101.6
 
 ```java
 package BASICS.day01; // call package day01
