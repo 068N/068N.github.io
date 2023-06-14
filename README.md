@@ -2,7 +2,9 @@
 
 # 目录
 
-## 第一阶段：BASICS
+## 第一阶段：
+
+### BASICS
 
 - [day01_notes](markdown/BASICS/day01_notes.md)
 - [day02_notes](markdown/BASICS/day02_notes.md)
@@ -14,9 +16,17 @@
 - [day06_notes](markdown/BASICS/day06_notes.md)
 - [day07_notes](markdown/BASICS/day07_notes.md)
 
-## 第二阶段：OOP
+### OOP
 
 - [day01_notes](markdown/OOP/day01_notes.md)
+- [day02_notes](markdown/OOP/day02_notes.md)
+- [day03_notes](markdown/OOP/day03_notes.md)
+- [day04_notes](markdown/OOP/day04_notes.md)
+- [day05_notes](markdown/OOP/day05_notes.md)
+
+### CORE_API
+
+## 第二阶段：
 
 - - -
 
